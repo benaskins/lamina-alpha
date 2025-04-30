@@ -1,7 +1,7 @@
 
-# Lamina Architecture
+# Lamina
 
-![Lamina System](https://placehold.co/800x200?text=Lamina+Architecture+System)
+![Lamina System](https://placehold.co/800x200?text=lamina)
 
 A modular system for AI character persistence, contextual tone control, and scoped memory management.
 
